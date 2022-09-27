@@ -9,3 +9,6 @@
 - 🔗 I created this website https://cnpj-bolsa.herokuapp.com/
 
 ## Tools and technologies that I use and study:
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          
