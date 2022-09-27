@@ -6,5 +6,6 @@
 
 
 - 🔭 I’m currently working on Python projects...
-- 🌱 I’m currently learning Python, Django, Dash Plotly, MongoDB, SQL, etc...
 - 🔗 I created this website https://cnpj-bolsa.herokuapp.com/
+
+## Tools and technologies that I use and study:
