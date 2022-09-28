@@ -18,7 +18,7 @@ src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60" height="60"/>
   
 <a href = "mailto:fittato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-b-moura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/FelipeBmoura" target="_blank"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" width="130" height="40"></a> 
+<a href="https://www.hackerrank.com/FelipeBmoura" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
           
           
           
