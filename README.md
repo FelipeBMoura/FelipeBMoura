@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently working on Python projects...
-- 🔗 I created this website https://cnpj-bolsa.herokuapp.com/
 
 ## Tools and technologies that I use and study:
    
