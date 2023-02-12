@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working on a Python project (using Django, MongoDB, Dash Plotly, Pandas, Numpy, HTML and CSS) and studying Python,  Java and Agile methodologies.
+- 🔭 I am currently working on a Python project that utilizes Django, MongoDB, Dash Plotly, Pandas, Numpy, HTML, and CSS. I am also studying Python, Java, and Agile methodologies.
 
 ## Tools and technologies that I use and study:
    
