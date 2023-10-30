@@ -4,8 +4,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBMoura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  
 </div>
 
-
-- 🔭 I am currently working on a Python project that utilizes Django, MongoDB, Dash Plotly, Pandas, Numpy, HTML, and CSS. I am also studying Python, C#, Java, and Agile methodologies.
+- 👨‍💻 I am a software developer at Banrisul S.A. bank. The technologies used are C#, ASP.NET, Javascript, HTML, JQuery, SQL and Tortoise SVN.
+- 🔭 I am currently working on a personal Python project, that utilizes Django, MongoDB, Dash Plotly, Pandas, Numpy, HTML, Javascript and CSS.
+- 📖 I'm also studying Python, C#, Java, Javascript, HTML and agile methodologies.
 
 ## Tools and technologies that I use and study:
    
