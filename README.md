@@ -5,8 +5,8 @@
 </div>
 
 - 👨‍💻 I am a software developer at Banrisul S.A. bank. The technologies used are C#, ASP.NET, Javascript, HTML, JQuery, SQL and Tortoise SVN.
-- 🔭 I am currently working on a personal Python project, that utilizes Django, MongoDB, Dash Plotly, Pandas, Numpy, HTML, Javascript and CSS.
-- 📖 I'm also studying Python, C#, Java, Javascript, HTML and agile methodologies.
+- - 🔭 I am currently working on a personal project, that utilizes .NET, NextJs, Tailwind, Typescript e PostgreSQL.
+- 📖 I'm also studying Python, C#, Java, Javascript, HTML, SQL and agile methodologies.
 
 ## Tools and technologies that I use and study:
    
