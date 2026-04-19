@@ -9,12 +9,13 @@ I'm a full-stack developer passionate about building scalable applications.
 ## 🛠️ Technologies & Tools
 
 **Languages & Frameworks:**
-
+<div align="left">
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="60" height="75"/></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60" height="60"/></a>
+</div>
 
 **Databases:**
 
