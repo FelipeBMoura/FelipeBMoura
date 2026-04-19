@@ -2,7 +2,7 @@
 
 I'm a full-stack developer passionate about building scalable applications.
 
-- 👨‍💻 I am a software developer at Banrisul S.A. bank. The technologies used are C#, ASP.NET, Javascript, HTML, JQuery, SQL and Tortoise SVN.
+- 👨‍💻 I am a software developer at Banrisul S.A. bank. The technologies used are C#, .NET, Java, Javascript, HTML, SQL and Tortoise SVN.
 - 🔭 I am currently working on a personal project that utilizes .NET, NextJs, Tailwind, Typescript and PostgreSQL.
 - 📖 I'm also studying Python, C#, Java, Javascript, HTML, SQL and agile methodologies.
 
